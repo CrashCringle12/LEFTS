@@ -1,7 +1,6 @@
-# R.I.G.H.T.S Tournament 3
-![FinalBannerUltimate](https://github.com/user-attachments/assets/18762511-c2aa-4e24-b906-5b802c516e7f)
-
-## Rhythm In Gaming: High Tech Stepcharts 
+# L.E.F.T.S. Tournament 1
+## All that's L.E.F.T.S
+<img width="1280" height="720" alt="LeftsBanner" src="https://github.com/user-attachments/assets/7d0f687e-852e-4c03-84e9-fc408ee8e880" />
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
@@ -10,37 +9,39 @@
 
 | Thing  | Info |
 | ------------- | ------------- |
-| Date  | January 18th-19th 2025  |
+| Date  | TBD  |
 | Times  | *Saturday: 10:30am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
-| Establishment | Pollock Commons  |
-| Address  | Pollock Commons, State College, PA 16802  |
-| Pre-reg Deadline | December 13th  |
+| Establishment | ?????  |
+| Address  | ??????  |
+| Pre-reg Deadline | TBD  |
 | [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) |
 | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) |
 | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | 
 | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) |
 | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395) |
 | [R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1) | [R.I.G.H.T.S 2](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-2) |
+| [R.I.G.H.T.S 3](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-3) | [L.E.F.T.S. 1](https://github.com/CrashCringle12/RIGHTS/wiki/L.E.F.T.S-1) |
+
 
 # Overview
 
-The purpose of the R.I.G.H.T.S tournament series is to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
+The purpose of the L.E.F.T.S. tournament series is to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
 
 The rules will be similar to those of the U.P.S and D.O.W.N.S. tournament series. But please actually review the rules before registering or submitting files.
 
 Like before, the only selectable songs in this tournament will be those from a special custom pack. The contents of this pack will be determined entirely by the tournament entrants. Here's how it works:
 
-If you preregister before December 13th, you are allowed to submit up to three of your own home-made custom simfiles. The simfiles must also be submitted before before EOD December 13th. Then all of the submitted simfiles will be accumulated and distributed as a whole sometime soon afterward. You have from then until the date of the tournament to practice the custom simfiles.
+If you preregister before {TBD}, you are allowed to submit up to three of your own home-made custom simfiles. The simfiles must also be submitted before before EOD {TBD}. Then all of the submitted simfiles will be accumulated and distributed as a whole sometime soon afterward. You have from then until the date of the tournament to practice the custom simfiles.
 
-Of course, you can still choose to enter after December 13th, but you will not be able to submit any of your own simfiles to the tournament pack.
+Of course, you can still choose to enter after {TBD}, but you will not be able to submit any of your own simfiles to the tournament pack.
 
-Note that there is a reduced entry fee for those who preregister before December 13th.
+Note that there is a reduced entry fee for those who preregister before {TBD}.
 
 # Software
 
-We are presently running **ITGmania 0.9.0** on our cab and will be during R.I.G.H.T.S 3. Information about ITGmania can be found [HERE](https://www.itgmania.com/).
+We are presently running **ITGmania 1.1.0** on our cab and will be during L.E.F.T.S. 1. Information about ITGmania can be found [HERE](https://www.itgmania.com/).
 
 If you're unfamiliar with ITGmania, for the purposes of this tournament it can be considered interchangeable with SM5.
 
@@ -64,7 +65,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **The total uncompressed size of all of your three submissions *combined* should be no greater than 50.16MB.** The tournament pack grows in size every year, and I want to keep it somewhat reasonable. If your simfile includes a video file, you will absolutely need to compress it to meet this requirement.
 
-* **You can't resubmit files from previous D.O.W.N.S./U.P.S./U.P.S.M.H/R.I.G.H.T.S tournaments.** This goes without saying.
+* **You can't resubmit files from previous D.O.W.N.S./U.P.S./U.P.S.M.H/R.I.G.H.T.S/L.E.F.T.S. tournaments.** This goes without saying.
 
 * **Don't break the machine.** Your simfile must not crash the machine, and you are not allowed to abuse lua to modify configuration settings that persist after the song is complete (for example, you are not allowed to change settings via PREFSMAN). This is quite an extensive topic, so if you have any questions, please ask. SM5 also allows for some pretty hacky things so depending on your implementation, I may or may not allow a file depending on what it's trying to achieve.
 
@@ -102,7 +103,7 @@ SM5/ITGm has a preference for "Quirks Mode" which adds some capability to read l
 
 # Preregistration
 
-**The preregistration deadline is December 13th. You cannot preregister or submit any simfiles past this date.**
+**The preregistration deadline is {TBD}. You cannot preregister or submit any simfiles past this date.**
 
 To preregister, all you need to do is send Crash Cringle or mimbiguity $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
 **PLEASE INCLUDE YOUR NAME/USERNAME and/or HANDLE WHEN PRE-REGISTERING**
