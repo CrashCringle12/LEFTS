@@ -18,7 +18,7 @@
 | Pre-reg Deadline | TBD  |
 | [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) |
 | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) |
-| [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | 
+| [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) |
 | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) |
 | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395) |
 | [R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1) | [R.I.G.H.T.S 2](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-2) |
@@ -71,7 +71,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **Videos should be perfectly fine on this machine.** Although, if you'd like to play your files on normal arcade machines, don't use videos in your simfile unless you are positive they won't lag. As a general rule of thumb, I recommend against using videos altogether, but if you do, be sure to keep them short and very low-resolution. I am not aware of all the factors that cause some videos to lag more than others, so use your best discretion, and be aware that just because your file doesn't lag on your laptop doesn't mean it won't lag on a machine. Also keep the file size limit in mind when including videos with your stepchart.
 
-* **The simfiles should be your own work!** You can't submit somebody else's files. Additionally, you have to actually demonstrate that you put a notable level of effort into creating the file. Copying somebody else's chart and rearranging a few notes here and there or changing the graphics does not qualify as writing your own chart. Parodies are fine, but the entire purpose of allowing user-submitted files is to get new content. If I don't think that your file can stand alone as your own work I will likely not allow it. Collaborations are *okay*, but should not be used as an attempt to circumnavigate the 3 simfile rule. Collaborations should be "in the spirit of the tournament." This is subjective so ask us in advance if you have any questions. 
+* **The simfiles should be your own work!** You can't submit somebody else's files. Additionally, you have to actually demonstrate that you put a notable level of effort into creating the file. Copying somebody else's chart and rearranging a few notes here and there or changing the graphics does not qualify as writing your own chart. Parodies are fine, but the entire purpose of allowing user-submitted files is to get new content. If I don't think that your file can stand alone as your own work I will likely not allow it. Collaborations are *okay*, but should not be used as an attempt to circumnavigate the 3 simfile rule. Collaborations should be "in the spirit of the tournament." This is subjective so ask us in advance if you have any questions.
 
 * **Don't be a pain in the ass.** If your chart has a three-minute intro/outro without any notes, you are being a pain in the ass. If your audio is excessively loud or uncomfortable to listen to, you are being a pain in the ass. If you try to hide inappropriate content in your simfile, you are being a pain in the ass. If you submit borderline-offensive content without PM'ing me first, you are being a pain in the ass. Charts that require excessive memorization may be asked to be reworked or rejected if they're deemed obtuse to the point of not being conducive to a fun tournament environment. Don't be a pain in the ass. We reserve the right to refuse charts that we feel are breaking this rule.
 
@@ -161,7 +161,7 @@ The tournament will be a standard double-elimination bracket. A few points will 
       * **ITGmania Specific** Notefield offset and per-player Visual Delay will be removed from the mod selection screen.
 
    * You may not pick a song more than once.
-     
+
    * You are free to choose songs that you have submitted or contributed to, but you can only do so 3 times in the tournament.
 
    * You may only pick (or random) amongst the expert singles charts.
@@ -176,7 +176,6 @@ The tournament will be a standard double-elimination bracket. A few points will 
 
    * There will be a scheduled lunch break at 00:00
 
-   * Don't  on your opponent while you're playing. Unless they're into that.
 
    * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
 
@@ -186,24 +185,24 @@ The tournament will be a standard double-elimination bracket. A few points will 
 ### Selection
 Players will form teams of 5. You are free to assemble your own Teams up until the event begins. If there are folks without a team we'll try to consolidate any ungrouped players to form a team. You will need at least 5 players due to the variable number of players required for the songs.
 ### Lives
-Every player will have a total of 6 Lives. Lives are expended every time a player plays a song. For example, if Telperion and Paul J Kim go up and play, both Telp and Paul will have expended ``1`` life during that set. So if they had 6 lives they now have 5. When a player reaches 0 lives the team can no longer use this player for any matches. 
+Every player will have a total of 6 Lives. Lives are expended every time a player plays a song. For example, if Telperion and Paul J Kim go up and play, both Telp and Paul will have expended ``1`` life during that set. So if they had 6 lives they now have 5. When a player reaches 0 lives the team can no longer use this player for any matches.
 
 ## Rounds
 ### Info
-There will be a total of 12 Rounds in the game. A Round is complete when every team has played their selected song for the round. A maximum of two teams can play at once on two cabs that have been designated for the couples tournament. Please wait for a TOs signal before starting your song. (Depending on time and constraints we may open a third machine up for couples). 
+There will be a total of 12 Rounds in the game. A Round is complete when every team has played their selected song for the round. A maximum of two teams can play at once on two cabs that have been designated for the couples tournament. Please wait for a TOs signal before starting your song. (Depending on time and constraints we may open a third machine up for couples).
 
 ### Whose turn is it?
 At the start of every round we will announce a number, you will need to send that amount of players up to play for that round.
-For example, if Round 1 is a "3 Player" round. You will need to choose 3 players from your team to go up. Rounds will be a minimum of two 
+For example, if Round 1 is a "3 Player" round. You will need to choose 3 players from your team to go up. Rounds will be a minimum of two
 
-How you choose who goes up is really up to you. You can discuss it, rock paper scissors, draw straws, yell "not it"... It's really up to you, though - battles to the death are strongly discouraged as this would put you under the 5 player requirement. 
+How you choose who goes up is really up to you. You can discuss it, rock paper scissors, draw straws, yell "not it"... It's really up to you, though - battles to the death are strongly discouraged as this would put you under the 5 player requirement.
 
 Our Official Recommendation for Team Selection is to use "Playground Style" children's it games such as:  Bubblegum in a Dish or Eeny Meeny Miny Moe. I will perform a live demonstration of these methods at the event for those who are unfamiliar. If you cannot agree on a method we will fallback on one of these games.
 
 As previously stated, you can only choose players that have at least 1 life remaining. If the team doesn't have enough players to send, (due to insufficient lives) then your team will receive a 0 for the round.
 
 ### Song Selection
-We'll be using a Card Draw system for Song Selection. The pool of songs is dependent upon the Round. For example, if it is a 2-player round the song selection will be all 2-player songs in the pack. 
+We'll be using a Card Draw system for Song Selection. The pool of songs is dependent upon the Round. For example, if it is a 2-player round the song selection will be all 2-player songs in the pack.
 
 Your team will draw 5 songs from the respective pool*. After the songs are drawn you can freely choose from this list which song you will play. If the next round uses the same amount of players as the previous round, you will use this same pool. Otherwise you'll draw another 5.
 
@@ -214,7 +213,7 @@ After a song is played it will be removed from the card draw. (Songs can only be
 ### Scoring
 After each song you'll be given a score on the evaluation screen. This is your "couples" score (The score accrued by your entire party during the song). You'll also be shown the individual scores for Player 1 and Player 2. For the tournament we will only be considering your combined "couples" scores.
 
-After the song is completed, each sent player loses one life and the score is plugged into a formula for the team. The score you got on the song, the number of players that participated, and the difficulty of the song determine the total score of obtain from the round. 
+After the song is completed, each sent player loses one life and the score is plugged into a formula for the team. The score you got on the song, the number of players that participated, and the difficulty of the song determine the total score of obtain from the round.
 
 At the end of all the rounds scores are totaled and the winner is the team with the highest score.
 
@@ -234,7 +233,7 @@ Sooo for this tournament we're basically beta testing "Routine" mode in ITGMania
 
 Routine mode is an "official" couples mode in the engine. I had to make a bunch of changes to the engine and theme for this to work and that'll be pretty apparent on arrival. If you have any questions about this feel free to @me, dm, or ask me during down time at the event.
 
-There may be a few quirks that pop up here and there, we'll have a feedback form out to collect those. 
+There may be a few quirks that pop up here and there, we'll have a feedback form out to collect those.
 
 In the event that the software just completely crashes and burns the day of the tournament -- Have no fear. We will fallback on playing the original doubles versions of these songs. If this happens none of the above rules/info change aside from players would not be able to see individualized scores.
 
@@ -242,20 +241,11 @@ But yeah, I include this section as a disclaimer so folks are aware. We ask for 
 
 # Venue Information
 
-There's a convenience store with drinks and snacks in the same building as the machine.
-
-There's an all-you-can-eat Buffet above the room we're having the tournament. It's kinda pricey, dinner is ~$15 for non students and lunch is ~$12, breakfast is ~5
-
-If you get hungry, there is a lot of food downtown which is about a 5 minute walk. **There is no longer a sheetz immediately downtown** 🥲. However, there are still plenty of other stores to explore. Feel free to get food whenever you want, as long as you can get back in time for your match. You can bring food back towards the venue, but **please clean up after yourself** and throw your trash away.
-
-The machine is now permanently located in Rec Room (formerly, we used to move it into this room from another area in the same building). There should be enough space to hangout and watch. At worst you can sit on peoples' laps or something.
-
+TBA
 
 # Hotels / Housing / Transportation
 
-There are quite a few hotels which are fairly close by. A lot of the people who went to Penn State have graduated but there are still a few people who may have housing. If you're looking to carpool, seek housing, or have any questions about housing/hotels/transportation feel free to drop a message in the #housing-and-transport channel in the discord. Feel free to also PM me any questions.
-
-The closest airport is the University Park Airport which is like a 5–10 minute drive from campus. It's also a fairly small airport.
+TBA
 
 # Registrants / Simfiles
 
